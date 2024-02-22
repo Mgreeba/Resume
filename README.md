@@ -5,7 +5,7 @@
 
 ## Education
 - Bachelor of Civil Engineering (Honours degree)-2009 - University of Khartoum, Sudan
-  - UOK, 2009
+
 
 ## Key Achievements
 Successfully implemented Primavera Project Management System P6, enhancing program
